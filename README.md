@@ -1,4 +1,7 @@
-# kickstart.nvim
+# nvim-config
+
+Alain Mosnier's neovim config, based on kickstart.nvim. For now, the rest of
+this file is the original.
 
 ## Introduction
 
